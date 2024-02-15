@@ -1,0 +1,14 @@
+const batMan = 7
+const superMan = 4 
+let  WonderGirl = 3 
+WonderGirl = 9 
+let FlaSh = 8
+FlaSh = 1
+let CybeOrg = 0;
+CyberOrg = 3
+
+console.log(batMan);
+console.log(superMan);
+console.log(WonderGirl);
+console.log(FlaSh);
+console.log(CyberOrg);
