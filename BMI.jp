@@ -1,0 +1,6 @@
+const mass = 154
+const height = 6.1
+
+let bmi = mass/height**2
+
+console.log(bmi);
